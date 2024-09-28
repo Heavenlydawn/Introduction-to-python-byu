@@ -1,4 +1,4 @@
-# Convert the temperature from Fahrenheit to Celsius
+Convert the temperature from Fahrenheit to Celsius
 to_fahrenheit = input('What is the temperature in Fahrenheit?')
 to_fahrenheit = int(to_fahrenheit)
 
