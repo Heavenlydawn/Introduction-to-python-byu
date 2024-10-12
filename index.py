@@ -1,36 +1,36 @@
-# name = input('What is your name?')
-# print('Hello')
-# print(name)
+name = input('What is your name?')
+print('Hello')
+print(name)
 
 
-# print('Adding Numbers')
-# x = 200 * 2
-# print('Dividing Numbers')
-# y = x / 100
+print('Adding Numbers')
+x = 200 * 2
+print('Dividing Numbers')
+y = x / 100
 
 
 
 
-# first_name = input ('Please Enter Your First Name')
-# last_name = input ('Please Enter Your Last Name')
-# print(first_name + last_name)
-# print ('Hello, ' + first_name.capitalize() + ' ' + last_name.capitalize())
-# print(f'Hello, {first_name} {last_name}')
+first_name = input ('Please Enter Your First Name')
+last_name = input ('Please Enter Your Last Name')
+print(first_name + last_name)
+print ('Hello, ' + first_name.capitalize() + ' ' + last_name.capitalize())
+print(f'Hello, {first_name} {last_name}')
 
 
-# first_name = 'Heaven'
-# last_name = 'Gabriel'
+first_name = 'Heaven'
+last_name = 'Gabriel'
 
-# # output = 'Hello, ' + first_name + ' ' + last_name
-# # output = 'Hello, {} {}'.format(first_name, last_name)
-# # output = 'Hello, {0} {1}'.format(first_name, last_name)
-# output = f'Hello, {first_name} {last_name}'
-# print(output)
+# output = 'Hello, ' + first_name + ' ' + last_name
+# output = 'Hello, {} {}'.format(first_name, last_name)
+# output = 'Hello, {0} {1}'.format(first_name, last_name)
+output = f'Hello, {first_name} {last_name}'
+print(output)
 
-# quantity = input('Please type in how many items you have')
+quantity = input('Please type in how many items you have')
 
-# double_quantity = int(quantity) * 2
-# print(f'You have {double_quantity} items')
+double_quantity = int(quantity) * 2
+print(f'You have {double_quantity} items')
 
 
 # Function to calculate tip
