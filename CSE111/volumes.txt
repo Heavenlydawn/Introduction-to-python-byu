@@ -1,0 +1,5 @@
+2025-01-10, 205.0, 60.0, 15.0, 39.92
+Quantity: 10.0
+Price: 759.9
+Phone Number: +2347088808842
+Address: Abuja
